@@ -1,0 +1,6 @@
+rootProject.name = 'NovaTest'
+
+include 'block'
+include 'entity'
+include 'gui'
+include 'item'
